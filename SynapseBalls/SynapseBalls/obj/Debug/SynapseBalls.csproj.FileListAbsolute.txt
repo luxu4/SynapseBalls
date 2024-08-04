@@ -1,0 +1,11 @@
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\bin\Debug\SynapseBalls.exe.config
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\bin\Debug\SynapseBalls.exe
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\bin\Debug\SynapseBalls.pdb
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\obj\Debug\SynapseBalls.csproj.AssemblyReference.cache
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\obj\Debug\SynapseBalls.Form1.resources
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\obj\Debug\SynapseBalls.Properties.Resources.resources
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\obj\Debug\SynapseBalls.csproj.GenerateResource.cache
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\obj\Debug\SynapseBalls.csproj.CoreCompileInputs.cache
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\obj\Debug\SynapseB.23ECC7F8.Up2Date
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\obj\Debug\SynapseBalls.exe
+C:\Users\lukaj\source\repos\SynapseBalls\SynapseBalls\obj\Debug\SynapseBalls.pdb
